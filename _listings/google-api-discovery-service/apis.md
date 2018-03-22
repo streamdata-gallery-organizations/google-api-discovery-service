@@ -12,8 +12,8 @@ tags:
 - Google APIs
 - Discovery
 - Definitions
-created: "2018-03-15"
-modified: "2018-03-15"
+created: "2018-03-22"
+modified: "2018-03-22"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-api-discovery-service/master/_listings/google-api-discovery-service/apis.yaml
 specificationVersion: "0.14"
 apis:
